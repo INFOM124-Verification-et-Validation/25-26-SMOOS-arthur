@@ -1,0 +1,10 @@
+2025-09-30 09:35:45.012 - Notification - You are making progress on an achievement! You have already reached 60,00% of the next level of the 'Double check' achievement!
+2025-09-30 09:35:45.034 - Notification - You are making progress on an achievement! You have already reached 30,00% of the next level of the 'Safety First' achievement!
+2025-09-30 09:36:13.063 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Assert and Tested' achievement!
+2025-09-30 09:36:13.108 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'Assert and Tested' achievement!
+2025-09-30 09:36:13.152 - Notification - Congratulations! You unlocked level 1 of the 'Assert and Tested' achievement!
+2025-09-30 09:36:13.381 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'The Tester' achievement!
+2025-09-30 09:36:13.399 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-09-30 10:18:45.341 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'The Tester' achievement!
+2025-09-30 10:18:45.356 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-09-30 10:27:51.382 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Double check' achievement!

@@ -31,7 +31,8 @@ class OccupantTest {
      */
     @Test
     void noStartSquare() {
-        // TODO
+        assertThat (unit.hasSquare()).isEqualTo(false);
+
     }
 
     /**
@@ -40,6 +41,7 @@ class OccupantTest {
      */
     @Test
     void testOccupy() {
+        assertThat().isEqualTo();
         // TODO
     }
 
