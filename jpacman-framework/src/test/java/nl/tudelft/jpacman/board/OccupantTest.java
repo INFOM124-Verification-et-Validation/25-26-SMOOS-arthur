@@ -41,7 +41,7 @@ class OccupantTest {
      */
     @Test
     void testOccupy() {
-        assertThat().isEqualTo();
+        //assertThat().isEqualTo();
         // TODO
     }
 
