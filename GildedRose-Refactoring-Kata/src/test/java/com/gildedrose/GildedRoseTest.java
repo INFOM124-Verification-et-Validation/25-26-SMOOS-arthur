@@ -78,5 +78,36 @@ class GildedRoseTest {
         assertEquals("special", app.items[0].category);
     }
 
+    @Test
+    void concert2() {
+        Item[] items = new Item[]{new Item("Backstage passes to a TAFKAL80ETC concert", 10, 20, "special")};
+        GildedRose app = new GildedRose(items);
+        app.updateQuality();
+        assertEquals("Backstage passes to a TAFKAL80ETC concert", app.items[0].name);
+        assertEquals(9, app.items[0].sellIn);
+        assertEquals(22, app.items[0].quality);
+        assertEquals("special", app.items[0].category);
+    }
+
+    @Test
+    void concert3() {
+        Item[] items = new Item[]{new Item("Backstage passes to a TAFKAL80ETC concert", 5, 20, "special")};
+        GildedRose app = new GildedRose(items);
+        app.updateQuality();
+        assertEquals("Backstage passes to a TAFKAL80ETC concert", app.items[0].name);
+        assertEquals(4, app.items[0].sellIn);
+        assertEquals(23, app.items[0].quality);
+        assertEquals("special", app.items[0].category);
+    }
+    @Test
+    void concert4() {
+        Item[] items = new Item[]{new Item("Backstage passes to a TAFKAL80ETC concert", 1, 20, "special")};
+        GildedRose app = new GildedRose(items);
+        app.updateQuality();
+        assertEquals("Backstage passes to a TAFKAL80ETC concert", app.items[0].name);
+        assertEquals(0, app.items[0].sellIn);
+        assertEquals(0, app.items[0].quality);
+        assertEquals("special", app.items[0].category);
+    }
 
 }
