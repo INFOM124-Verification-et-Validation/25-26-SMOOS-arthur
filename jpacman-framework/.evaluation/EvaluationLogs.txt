@@ -8,3 +8,41 @@
 2025-09-30 10:18:45.341 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'The Tester' achievement!
 2025-09-30 10:18:45.356 - Notification - You might want to run your tests with coverage to see if you missed anything!
 2025-09-30 10:27:51.382 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Double check' achievement!
+2025-11-04 08:48:19.611 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-11-04 08:48:19.611 - Debug - Web socket state : Connecting
+2025-11-04 08:48:20.178 - Error - Websocket failure : Hôte inconnu (gamification.thibber.be)
+2025-11-04 08:48:20.18 - Debug - Web socket state : Error
+2025-11-04 08:50:12.634 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-11-04 08:50:12.644 - Debug - Web socket state : Connecting
+2025-11-04 08:50:12.791 - Error - Websocket failure : Hôte inconnu (gamification.thibber.be)
+2025-11-04 08:50:12.794 - Debug - Web socket state : Error
+2025-11-04 08:52:42.563 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-11-04 08:52:42.563 - Debug - Web socket state : Connecting
+2025-11-04 08:52:43.073 - Error - Websocket failure : Hôte inconnu (gamification.thibber.be)
+2025-11-04 08:52:43.073 - Debug - Web socket state : Error
+2025-11-04 08:54:02.978 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-11-04 08:54:02.978 - Debug - Web socket state : Connecting
+2025-11-04 08:54:03.766 - Error - Websocket failure : Hôte inconnu (gamification.thibber.be)
+2025-11-04 08:54:03.766 - Debug - Web socket state : Error
+2025-11-04 08:57:06.793 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-11-04 08:57:06.793 - Debug - Web socket state : Connecting
+2025-11-04 08:57:07.551 - Error - Websocket failure : Hôte inconnu (gamification.thibber.be)
+2025-11-04 08:57:07.551 - Debug - Web socket state : Error
+2025-11-13 11:32:30.225 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-11-13 11:32:30.231 - Debug - Web socket state : Connecting
+2025-11-13 11:32:30.329 - Error - Websocket failure : Hôte inconnu (gamification.thibber.be)
+2025-11-13 11:32:30.33 - Debug - Web socket state : Error
+2025-11-13 11:33:20.165 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Assert and Tested' achievement!
+2025-11-13 11:33:20.234 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Assert and Tested' achievement!
+2025-11-13 11:33:20.286 - Notification - Congratulations! You unlocked level 2 of the 'Assert and Tested' achievement!
+2025-11-13 11:33:20.528 - Notification - You are making progress on an achievement! You have already reached 25,00% of the next level of the 'Assert and Tested' achievement!
+2025-11-13 11:33:21.238 - Notification - Congratulations! You unlocked level 1 of the 'The Tester' achievement!
+2025-11-13 11:33:21.266 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-11-18 08:46:47.135 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-11-18 08:46:47.138 - Debug - Web socket state : Connecting
+2025-11-18 08:46:50.931 - Error - Websocket failure : Hôte inconnu (gamification.thibber.be)
+2025-11-18 08:46:50.932 - Debug - Web socket state : Error
+2025-11-27 11:01:29.402 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-11-27 11:01:29.42 - Debug - Web socket state : Connecting
+2025-11-27 11:01:29.946 - Error - Websocket failure : Hôte inconnu (gamification.thibber.be)
+2025-11-27 11:01:29.946 - Debug - Web socket state : Error
