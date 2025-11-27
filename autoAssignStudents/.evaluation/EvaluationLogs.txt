@@ -1,0 +1,10 @@
+2025-11-04 10:08:31.384 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Safety First' achievement!
+2025-11-04 10:08:31.414 - Notification - You are making progress on an achievement! You have already reached 60,00% of the next level of the 'Shine in new splendour' achievement!
+2025-11-13 10:59:48.747 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-11-13 10:59:48.749 - Debug - Web socket state : Connecting
+2025-11-13 10:59:49.16 - Error - Websocket failure : Hôte inconnu (gamification.thibber.be)
+2025-11-13 10:59:49.163 - Debug - Web socket state : Error
+2025-11-13 11:05:47.19 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-11-13 11:05:47.192 - Debug - Web socket state : Connecting
+2025-11-13 11:05:47.52 - Error - Websocket failure : Hôte inconnu (gamification.thibber.be)
+2025-11-13 11:05:47.52 - Debug - Web socket state : Error
