@@ -33,3 +33,15 @@
 2025-11-27 11:00:33.338 - Debug - Web socket state : Connecting
 2025-11-27 11:00:33.567 - Error - Websocket failure : Hôte inconnu (gamification.thibber.be)
 2025-11-27 11:00:33.567 - Debug - Web socket state : Error
+2025-11-27 11:19:37.242 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-11-27 11:19:37.246 - Debug - Web socket state : Connecting
+2025-11-27 11:19:37.424 - Error - Websocket failure : Hôte inconnu (gamification.thibber.be)
+2025-11-27 11:19:37.426 - Debug - Web socket state : Error
+2025-11-27 11:21:01.22 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-11-27 11:21:39.399 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-11-27 11:22:52.538 - Notification - You are making progress on an achievement! You have already reached 52,00% of the next level of the 'Double check' achievement!
+2025-11-27 11:22:55.232 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-11-27 11:23:29.742 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-11-27 11:24:53.079 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-11-27 11:24:58.764 - Notification - You are making progress on an achievement! You have already reached 76,67% of the next level of the 'The Tester' achievement!
+2025-11-27 11:24:58.782 - Notification - You might want to run your tests with coverage to see if you missed anything!
